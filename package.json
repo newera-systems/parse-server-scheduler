@@ -19,7 +19,7 @@
   "dependencies": {
     "cron": "^1.8.2",
     "moment": "^2.26.0",
-    "parse": "^2.13.0",
+    "parse": "^4.0.1",
     "request-promise": "^4.2.5"
   }
 }
